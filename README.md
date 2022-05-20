@@ -16,7 +16,7 @@
 
 ![DSA](https://socialify.git.ci/ThusharaX/DSA/image?description=1&forks=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FBinaryMatter%2FBinaryMatter.github.io%2Fgh-pages%2FlogoRoundwithBorder.png&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
-- 🌱 This is a repository for OSSA(Operating Systems and System Administration) related questions.
+- 🌱 This is a repository for DSA(Data Structures & Algorithms) related questions.
 - 👯 Everyone is welcome to contribute.
 
 ## Contributors ✨
